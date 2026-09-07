@@ -231,7 +231,7 @@ searchInput.addEventListener("keydown", (ev) => {
         ev.preventDefault();
         if (!resultsEl.hidden && matches.length > 0) openLightbox(matches[activeIndex]);
     } else if (ev.key === "Escape") {
-        if (!lightbox.hidden) closeLightbox();
+        if (lightbox.classList.contains("open")) closeLightbox();
         else {
             searchInput.value = "";
             query = "";
@@ -277,12 +277,12 @@ function openLightbox(entry) {
 
     lightboxDl.href = srcOf(entry);
     lightboxDl.download = entry.filename;
-    lightbox.hidden = false;
+    lightbox.classList.add("open");
     document.body.style.overflow = "hidden";
 }
 
 function closeLightbox() {
-    lightbox.hidden = true;
+    lightbox.classList.remove("open");
     document.body.style.overflow = "";
     lightboxImg.onload = null;
 }
@@ -292,5 +292,5 @@ lightbox.addEventListener("click", (ev) => {
     if (ev.target === lightbox) closeLightbox();
 });
 window.addEventListener("keydown", (ev) => {
-    if (ev.key === "Escape" && !lightbox.hidden) closeLightbox();
+    if (ev.key === "Escape" && lightbox.classList.contains("open")) closeLightbox();
 });
