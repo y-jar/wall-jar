@@ -1,5 +1,7 @@
 # Hi These are My Wallpapers
 
+*[Link to walljar page](https://y-jar.github.io/wall-jar/)*
+
 > quick note for keen viewers: some of you might see i dont have the sources for some of the artists or artist names in-file. ive had these wallpapers for a while and i grab them kinda lazylike. So if you can forgive that, Enjoy! `[if you know the artest for a file, do hit me up and i will update]`
 
 **Contents**
@@ -7,14 +9,8 @@
 - [wall-bin/](./wall-bin)| what holds my desktop wallpapers
 - [wall-phone-bin/](./wall-bin)| what holds my phone wallpapers
 
-### Wallpaper Samples
+**If people want to copy the workflow:**
 
-![](./wall-bin/ER-maleketh-i-love-youuu.jpg)
-![](./wall-bin/halftone-stranger-by-the-shore-bench.png)
-![](./wall-bin/halftone-VRChat_1920x1080_2022-05-08_16-58-39.801.png)
-![](./wall-bin/evgeny-romanov-snow-climb-03.jpg)
-
-### Phone Wallpapers
-
-![](./wall-phone-bin/ER-maleketh.jpg)
-![](./wall-phone-bin/ER-midra.jpg)
+1. Drop the image into wall-bin/ (desktop) or wall-phone-bin/ (phone).
+2. From the repo root, run python3 scripts/gen-index.py — this is the step that makes it exist. It rescans both bins and rewrites wallpapers_database.json (size, ext, auto-tags).
+3. git add the image and the JSON, commit, push.
