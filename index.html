@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>jar's wallpapers</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <!-- floating particles background -->
+        <canvas id="particles"></canvas>
+
+        <h1>jar's wallpapers</h1>
+        <p class="subtitle">my collected wallpapers · click to view · <span class="kbd">@tag</span> to filter</p>
+
+        <!-- search -->
+        <div class="search-wrap">
+            <input
+                id="search"
+                type="text"
+                autocomplete="off"
+                spellcheck="false"
+                placeholder='search names or "@nord" / "@eldenring" ...'
+                aria-label="search wallpapers"
+            />
+            <div id="results" class="search-dropdown" hidden></div>
+        </div>
+
+        <!-- desktop wallpapers -->
+        <section class="section">
+            <h2>Desktop <span class="count" id="count-wall-bin"></span></h2>
+            <div class="grid" id="grid-wall-bin"></div>
+        </section>
+
+        <!-- phone wallpapers -->
+        <section class="section">
+            <h2>Phone <span class="count" id="count-wall-phone-bin"></span></h2>
+            <div class="grid portrait" id="grid-wall-phone-bin"></div>
+        </section>
+
+        <!-- lightbox -->
+        <div id="lightbox" class="lightbox" hidden>
+            <div class="lightbox-inner">
+                <button id="lightbox-close" class="lightbox-close" aria-label="close">&#10005;</button>
+                <img id="lightbox-img" alt="" />
+                <div class="lightbox-meta">
+                    <div class="card-name" id="lightbox-name"></div>
+                    <div class="tags" id="lightbox-tags"></div>
+                    <div class="meta-grid" id="lightbox-meta"></div>
+                    <a id="lightbox-dl" class="download" href="#">&#8681; Download</a>
+                </div>
+            </div>
+        </div>
+
+        <footer>hosted on <a href="https://github.com/y-jar/wall-jar">wall-jar</a> via github pages</footer>
+
+        <script src="script.js"></script>
+    </body>
+</html>
