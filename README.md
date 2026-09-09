@@ -5,7 +5,6 @@
 > quick note for keen viewers: some of you might see i dont have the sources for some of the artists or artist names in-file. ive had these wallpapers for a while and i grab them kinda lazylike. So if you can forgive that, Enjoy! `[if you know the artest for a file, do hit me up and i will update]`
 
 **Contents**
-- [sources.md](./sources.md)| Links to what sources i find for each art that isn't made by me!
 - [wall-bin/](./wall-bin)| what holds my desktop wallpapers
 - [wall-phone-bin/](./wall-bin)| what holds my phone wallpapers
 
