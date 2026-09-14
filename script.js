@@ -254,13 +254,19 @@ function openLightbox(entry) {
     for (const t of entry.tags) tagRow(lightboxTags, t);
 
     lightboxMeta.textContent = "";
+    const cells = {};
     const setRow = (k, v) => {
+        if (cells[k]) {
+            cells[k].textContent = v;
+            return;
+        }
         const kd = document.createElement("span");
         kd.className = "k";
         kd.textContent = k;
         const vd = document.createElement("span");
         vd.className = "v";
         vd.textContent = v;
+        cells[k] = vd;
         lightboxMeta.appendChild(kd);
         lightboxMeta.appendChild(vd);
     };
@@ -270,10 +276,11 @@ function openLightbox(entry) {
     setRow("file size", humanSize(entry.size));
     setRow("resolution", "…");
 
-    lightboxImg.src = srcOf(entry);
-    lightboxImg.onload = () => {
+    const setRes = () =>
         setRow("resolution", `${lightboxImg.naturalWidth} × ${lightboxImg.naturalHeight}`);
-    };
+    lightboxImg.onload = setRes;
+    lightboxImg.src = srcOf(entry);
+    if (lightboxImg.complete && lightboxImg.naturalWidth) setRes();
 
     lightboxDl.href = srcOf(entry);
     lightboxDl.download = entry.filename;
