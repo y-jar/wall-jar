@@ -152,16 +152,6 @@
       "eldenring"
     ]
   },
-  "ER-ranniPraying-by-黒猫只喝水.jpg": {
-    "filename": "ER-ranniPraying-by-黒猫只喝水.jpg",
-    "dir": "wall-bin",
-    "size": 985951,
-    "ext": "jpg",
-    "tags": [
-      "desktop",
-      "eldenring"
-    ]
-  },
   "ER-ranniSoadingScreen-by-ELDENRING.jpg": {
     "filename": "ER-ranniSoadingScreen-by-ELDENRING.jpg",
     "dir": "wall-bin",
@@ -236,16 +226,6 @@
       "desktop"
     ]
   },
-  "PunchBowlFalls-by-Richard_Rhee.jpg": {
-    "filename": "PunchBowlFalls-by-Richard_Rhee.jpg",
-    "dir": "wall-bin",
-    "size": 1195986,
-    "ext": "jpg",
-    "tags": [
-      "by-richard",
-      "desktop"
-    ]
-  },
   "SupernoUradeYaniSūFutari-maybe-by-jhaymoon.jpg": {
     "filename": "SupernoUradeYaniSūFutari-maybe-by-jhaymoon.jpg",
     "dir": "wall-bin",
@@ -285,17 +265,6 @@
     "tags": [
       "anime",
       "desktop"
-    ]
-  },
-  "anime-girls_seagulls_smoking_nature-occupation - by 焦茶.jpg": {
-    "filename": "anime-girls_seagulls_smoking_nature-occupation - by 焦茶.jpg",
-    "dir": "wall-bin",
-    "size": 45065059,
-    "ext": "jpg",
-    "tags": [
-      "anime",
-      "desktop",
-      "nature"
     ]
   },
   "anime-girls_tea - by 焦茶.jpg": {
@@ -345,6 +314,16 @@
     "ext": "jpg",
     "tags": [
       "by-jongmin",
+      "desktop"
+    ]
+  },
+  "castleWaves-by-Daniel_Dana.jpg": {
+    "filename": "castleWaves-by-Daniel_Dana.jpg",
+    "dir": "wall-bin",
+    "size": 3227319,
+    "ext": "jpg",
+    "tags": [
+      "by-daniel",
       "desktop"
     ]
   },
@@ -411,6 +390,16 @@
     "ext": "jpg",
     "tags": [
       "by-rellakinoko",
+      "desktop"
+    ]
+  },
+  "elsweyr-by-BGS.jpg": {
+    "filename": "elsweyr-by-BGS.jpg",
+    "dir": "wall-bin",
+    "size": 4615282,
+    "ext": "jpg",
+    "tags": [
+      "by-bgs",
       "desktop"
     ]
   },
@@ -645,16 +634,6 @@
     "ext": "webp",
     "tags": [
       "desktop"
-    ]
-  },
-  "windows-10.jpg": {
-    "filename": "windows-10.jpg",
-    "dir": "wall-bin",
-    "size": 1042600,
-    "ext": "jpg",
-    "tags": [
-      "desktop",
-      "windows"
     ]
   },
   "windows-11-StockOrange.png": {

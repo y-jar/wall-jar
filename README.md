@@ -11,5 +11,5 @@
 **If people want to copy the workflow:**
 
 1. Drop the image into wall-bin/ (desktop) or wall-phone-bin/ (phone).
-2. From the repo root, run python3 scripts/gen-index.py — this is the step that makes it exist. It rescans both bins and rewrites wallpapers_database.json (size, ext, auto-tags).
+2. From the repo root, run python3 scripts/gen-index.py this is the step that makes it exist. It rescans both bins and rewrites wallpapers_database.json (size, ext, auto-tags).
 3. git add the image and the JSON, commit, push.
