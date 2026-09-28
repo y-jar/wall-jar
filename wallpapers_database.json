@@ -9,6 +9,16 @@
       "desktop"
     ]
   },
+  "Coffee_Battery-by-UNKNOWN.png": {
+    "filename": "Coffee_Battery-by-UNKNOWN.png",
+    "dir": "wall-bin",
+    "size": 11048,
+    "ext": "png",
+    "tags": [
+      "by-unknown",
+      "desktop"
+    ]
+  },
   "Colon_Right_parenthasis-by-ilovedoodle.jpg": {
     "filename": "Colon_Right_parenthasis-by-ilovedoodle.jpg",
     "dir": "wall-bin",
@@ -216,6 +226,29 @@
       "eldenring"
     ]
   },
+  "Enchanting_New_Moon_Over_Mystic_Forest-by-robokoboto.jpg": {
+    "filename": "Enchanting_New_Moon_Over_Mystic_Forest-by-robokoboto.jpg",
+    "dir": "wall-bin",
+    "size": 2005290,
+    "ext": "jpg",
+    "tags": [
+      "by-robokoboto",
+      "desktop",
+      "forest",
+      "moon"
+    ]
+  },
+  "Gruvbox_Lines-by-UNKNOWN.png": {
+    "filename": "Gruvbox_Lines-by-UNKNOWN.png",
+    "dir": "wall-bin",
+    "size": 12308,
+    "ext": "png",
+    "tags": [
+      "by-unknown",
+      "desktop",
+      "gruvbox"
+    ]
+  },
   "Lured_by_the_Morning_Sun.png": {
     "filename": "Lured_by_the_Morning_Sun.png",
     "dir": "wall-bin",
@@ -247,6 +280,16 @@
       "moon"
     ]
   },
+  "Verdant_Mosaic_Window-by-Gracile.jpg": {
+    "filename": "Verdant_Mosaic_Window-by-Gracile.jpg",
+    "dir": "wall-bin",
+    "size": 1084247,
+    "ext": "jpg",
+    "tags": [
+      "by-gracile",
+      "desktop"
+    ]
+  },
   "Walking_Through_the_Rest_of_the_Dream-by-HUSHWAVEco.png": {
     "filename": "Walking_Through_the_Rest_of_the_Dream-by-HUSHWAVEco.png",
     "dir": "wall-bin",
@@ -271,16 +314,6 @@
     "filename": "anime-girl-sky-clouds-by-防_者.jpg",
     "dir": "wall-bin",
     "size": 1511641,
-    "ext": "jpg",
-    "tags": [
-      "anime",
-      "desktop"
-    ]
-  },
-  "anime-girls_long-hair_sky - by 焦茶.jpg": {
-    "filename": "anime-girls_long-hair_sky - by 焦茶.jpg",
-    "dir": "wall-bin",
-    "size": 4971791,
     "ext": "jpg",
     "tags": [
       "anime",
@@ -391,36 +424,27 @@
       "moon"
     ]
   },
-  "dark_pixelart-by-alexandrosliaskos.png": {
-    "filename": "dark_pixelart-by-alexandrosliaskos.png",
+  "dark_orange_abstract_3dRender-by-Philip_Oroni.jpg": {
+    "filename": "dark_orange_abstract_3dRender-by-Philip_Oroni.jpg",
     "dir": "wall-bin",
-    "size": 35177,
-    "ext": "png",
+    "size": 569544,
+    "ext": "jpg",
     "tags": [
-      "by-alexandrosliaskos",
+      "abstract",
+      "by-philip",
       "dark",
+      "desktop"
+    ]
+  },
+  "enchanted_fall_forest-by-Janek_Sedlář.jpg": {
+    "filename": "enchanted_fall_forest-by-Janek_Sedlář.jpg",
+    "dir": "wall-bin",
+    "size": 812632,
+    "ext": "jpg",
+    "tags": [
+      "by-janek",
       "desktop",
-      "pixel"
-    ]
-  },
-  "doctorArknights-by-rellakinoko.jpg": {
-    "filename": "doctorArknights-by-rellakinoko.jpg",
-    "dir": "wall-bin",
-    "size": 2850851,
-    "ext": "jpg",
-    "tags": [
-      "by-rellakinoko",
-      "desktop"
-    ]
-  },
-  "elsweyr-by-BGS.jpg": {
-    "filename": "elsweyr-by-BGS.jpg",
-    "dir": "wall-bin",
-    "size": 4615282,
-    "ext": "jpg",
-    "tags": [
-      "by-bgs",
-      "desktop"
+      "forest"
     ]
   },
   "fantasy_botanical_garden-by-Tarmo_Juhola.jpg": {
@@ -443,13 +467,13 @@
       "desktop"
     ]
   },
-  "girlAndDogEnjoyingTheGreatOutdoors-by-roxin282.jpg": {
-    "filename": "girlAndDogEnjoyingTheGreatOutdoors-by-roxin282.jpg",
+  "foggy_pine-by-Vadim_Sherbakov.jpg": {
+    "filename": "foggy_pine-by-Vadim_Sherbakov.jpg",
     "dir": "wall-bin",
-    "size": 3938010,
+    "size": 1216091,
     "ext": "jpg",
     "tags": [
-      "by-roxin282",
+      "by-vadim",
       "desktop"
     ]
   },
@@ -463,13 +487,25 @@
       "desktop"
     ]
   },
-  "grayBackground-by-alexandrosliaskos.png": {
-    "filename": "grayBackground-by-alexandrosliaskos.png",
+  "green_and_grey_forest-by-Don_Oppedijk.jpg": {
+    "filename": "green_and_grey_forest-by-Don_Oppedijk.jpg",
     "dir": "wall-bin",
-    "size": 103694,
-    "ext": "png",
+    "size": 456303,
+    "ext": "jpg",
     "tags": [
-      "by-alexandrosliaskos",
+      "by-don",
+      "desktop",
+      "forest"
+    ]
+  },
+  "grey_and_black_abstract_painting-by-Paweł_Czerwiński.jpg": {
+    "filename": "grey_and_black_abstract_painting-by-Paweł_Czerwiński.jpg",
+    "dir": "wall-bin",
+    "size": 481501,
+    "ext": "jpg",
+    "tags": [
+      "abstract",
+      "by-pawe",
       "desktop"
     ]
   },
@@ -536,6 +572,26 @@
       "desktop"
     ]
   },
+  "lago_di_mergozzo-by-Francesco_Moro.jpg": {
+    "filename": "lago_di_mergozzo-by-Francesco_Moro.jpg",
+    "dir": "wall-bin",
+    "size": 157882,
+    "ext": "jpg",
+    "tags": [
+      "by-francesco",
+      "desktop"
+    ]
+  },
+  "material_style_k5-by-UNKNOWN.jpg": {
+    "filename": "material_style_k5-by-UNKNOWN.jpg",
+    "dir": "wall-bin",
+    "size": 1091769,
+    "ext": "jpg",
+    "tags": [
+      "by-unknown",
+      "desktop"
+    ]
+  },
   "matteFoggyTown-by-alex_che.webp": {
     "filename": "matteFoggyTown-by-alex_che.webp",
     "dir": "wall-bin",
@@ -546,15 +602,49 @@
       "desktop"
     ]
   },
-  "mossyForest-by-Mark_Ferrari.jpg": {
-    "filename": "mossyForest-by-Mark_Ferrari.jpg",
+  "minimalist_abstract_motion-by-UNKNOWN.jpg": {
+    "filename": "minimalist_abstract_motion-by-UNKNOWN.jpg",
     "dir": "wall-bin",
-    "size": 648821,
+    "size": 1419715,
     "ext": "jpg",
     "tags": [
-      "by-mark",
+      "abstract",
+      "by-unknown",
       "desktop",
-      "forest"
+      "minimal"
+    ]
+  },
+  "night_landscape_winter-by-Charlotte_Pilat.jpg": {
+    "filename": "night_landscape_winter-by-Charlotte_Pilat.jpg",
+    "dir": "wall-bin",
+    "size": 111593,
+    "ext": "jpg",
+    "tags": [
+      "by-charlotte",
+      "desktop",
+      "landscape"
+    ]
+  },
+  "nixos_logo-by-UNKNOWN.png": {
+    "filename": "nixos_logo-by-UNKNOWN.png",
+    "dir": "wall-bin",
+    "size": 185977,
+    "ext": "png",
+    "tags": [
+      "by-unknown",
+      "desktop"
+    ]
+  },
+  "nord_underwater-by-Sven_Greb.png": {
+    "filename": "nord_underwater-by-Sven_Greb.png",
+    "dir": "wall-bin",
+    "size": 181701,
+    "ext": "png",
+    "tags": [
+      "by-sven",
+      "desktop",
+      "nord",
+      "water"
     ]
   },
   "redTundra-by-evgeny_romanov.jpg": {
@@ -593,16 +683,6 @@
     "size": 282780,
     "ext": "png",
     "tags": [
-      "desktop"
-    ]
-  },
-  "serene-by-Stuart_McGlennon.jpg": {
-    "filename": "serene-by-Stuart_McGlennon.jpg",
-    "dir": "wall-bin",
-    "size": 1462415,
-    "ext": "jpg",
-    "tags": [
-      "by-stuart",
       "desktop"
     ]
   },
@@ -667,6 +747,17 @@
       "desktop"
     ]
   },
+  "waves_abstract-by-MoeWalls.jpg": {
+    "filename": "waves_abstract-by-MoeWalls.jpg",
+    "dir": "wall-bin",
+    "size": 54403,
+    "ext": "jpg",
+    "tags": [
+      "abstract",
+      "by-moewalls",
+      "desktop"
+    ]
+  },
   "whispers-Wiesenfeld.webp": {
     "filename": "whispers-Wiesenfeld.webp",
     "dir": "wall-bin",
@@ -692,6 +783,16 @@
     "size": 1272996,
     "ext": "png",
     "tags": [
+      "desktop"
+    ]
+  },
+  "こいもじ-by-UNKNOWN.png": {
+    "filename": "こいもじ-by-UNKNOWN.png",
+    "dir": "wall-bin",
+    "size": 5767,
+    "ext": "png",
+    "tags": [
+      "by-unknown",
       "desktop"
     ]
   },
