@@ -477,6 +477,24 @@
       "desktop"
     ]
   },
+  "friren.png": {
+    "filename": "friren.png",
+    "dir": "wall-bin",
+    "size": 3956889,
+    "ext": "png",
+    "tags": [
+      "desktop"
+    ]
+  },
+  "friren_flower.png": {
+    "filename": "friren_flower.png",
+    "dir": "wall-bin",
+    "size": 11322372,
+    "ext": "png",
+    "tags": [
+      "desktop"
+    ]
+  },
   "goldenGlowAtRubyBeachWashington-by-Jos_Buurmans.jpg": {
     "filename": "goldenGlowAtRubyBeachWashington-by-Jos_Buurmans.jpg",
     "dir": "wall-bin",
@@ -664,16 +682,6 @@
     "size": 11836185,
     "ext": "png",
     "tags": [
-      "desktop"
-    ]
-  },
-  "retroCity-by-hi_bit_studios.jpg": {
-    "filename": "retroCity-by-hi_bit_studios.jpg",
-    "dir": "wall-bin",
-    "size": 409035,
-    "ext": "jpg",
-    "tags": [
-      "by-hi",
       "desktop"
     ]
   },
